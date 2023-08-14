@@ -14,3 +14,5 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/cb0353be-07a6-45bc-b262-b035bd4178ea)
 #tamrin 2: clear
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/3058b3b6-d76c-4b75-b9f7-543a9c1b18a6)
+#tamrin 2: copy
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/174bcb4d-f828-4f1f-90a2-ad7be6bdf0cc)
