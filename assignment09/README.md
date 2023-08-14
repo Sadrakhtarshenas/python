@@ -22,3 +22,5 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/9a3247d6-fe41-40ee-bc97-85c97a7c103b)
 #tamrin 8: tas
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/6a0ce78e-77f1-47b8-afdc-4b5b8a2f820b)
+#tamrin 8: palindrome 
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/f34dc6aa-7bd1-480c-9a1e-34029649b7b1)
