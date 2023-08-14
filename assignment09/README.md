@@ -24,3 +24,5 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/6a0ce78e-77f1-47b8-afdc-4b5b8a2f820b)
 #tamrin 8: palindrome 
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/f34dc6aa-7bd1-480c-9a1e-34029649b7b1)
+#tamrin 8: list
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/d5e15ca5-5c04-4532-8018-7ee16b7e13a8)
