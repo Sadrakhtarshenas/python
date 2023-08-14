@@ -4,3 +4,5 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/62db6151-1d20-441d-8b6f-b8c3cceabf69)
 #tamrin 2: add
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/b514a861-8600-4336-83e7-fdbdbab7cb71)
+#tamrin 2: update 
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/6a0ae861-1aa3-44f6-830c-3eb5b7397101)
