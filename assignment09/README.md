@@ -10,3 +10,5 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/0a982c0b-23ab-4d2e-950b-9069c0dfc151)
 #tamrin 2: index
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/dfa74e4f-b909-4e4f-88fb-230e9a2d2f65)
+#tamrin 2: count
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/cb0353be-07a6-45bc-b262-b035bd4178ea)
