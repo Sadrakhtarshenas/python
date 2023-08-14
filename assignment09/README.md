@@ -18,3 +18,5 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/174bcb4d-f828-4f1f-90a2-ad7be6bdf0cc)
 #tamrin 2: pop
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/8d641ea9-037b-41d0-a051-f67a18eadb32)
+#tamrin 2: update
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/9a3247d6-fe41-40ee-bc97-85c97a7c103b)
