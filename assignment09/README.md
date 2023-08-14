@@ -20,3 +20,5 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/8d641ea9-037b-41d0-a051-f67a18eadb32)
 #tamrin 2: update
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/9a3247d6-fe41-40ee-bc97-85c97a7c103b)
+#tamrin 8: tas
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/6a0ce78e-77f1-47b8-afdc-4b5b8a2f820b)
