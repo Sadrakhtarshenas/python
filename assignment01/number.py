@@ -1,0 +1,5 @@
+number = int(input('enter your number: '))
+print(number//1)
+print(number//10)
+print(number//100)
+print(number//1000)
