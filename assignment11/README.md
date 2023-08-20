@@ -6,3 +6,5 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/b9a1cbba-981c-4bc9-8024-73a5c6bd127c)
 #tamrin gcd
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/a7975dea-3ca8-459d-8d71-71fa0e77f800)
+#zadval
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/ff197607-eacd-42a9-9cee-5da5fd3bdf4f)
