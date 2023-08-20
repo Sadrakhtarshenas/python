@@ -6,4 +6,6 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/4818ee36-f00a-4104-9b5b-4a3eda35f20b)
 #tamrin imbd
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/fe297adf-c953-4820-ba4a-4f0d8d7f2bc1)
+#list 
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/4b12238c-b713-4f45-89b3-737b61d957d2)
 
