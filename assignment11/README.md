@@ -10,3 +10,5 @@
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/ff197607-eacd-42a9-9cee-5da5fd3bdf4f)
 #tamrin word
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/bf83d86e-dbc2-4975-9d15-b7c8fb114d08)
+#tamrin tic tac
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/a9266573-4f81-422e-9cba-c3086bad06da)
