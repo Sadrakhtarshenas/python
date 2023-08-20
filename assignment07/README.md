@@ -7,4 +7,6 @@ list
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/d010f2b0-f6c4-4ff8-a996-56658c55c3ec)
 #palindorme
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/d896a139-1fc4-4778-b19c-3ae73e9a46bd)
+#atm2
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/0fff161c-62d1-4fa9-8233-e6d128d2b193)
 
