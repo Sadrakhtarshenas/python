@@ -9,5 +9,6 @@ list
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/1dfc646b-8835-4c51-be36-5bfcd9d367a6)
 #metode count
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/e82bc91c-8770-45ff-9480-b0e8559f4060)
-
+# ubdate_ temperture
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/45d47ea6-434e-44d7-9b0c-caa813350a16)
 
