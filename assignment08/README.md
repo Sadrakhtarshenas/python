@@ -6,4 +6,6 @@ hangmang
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/ecc4d77c-524e-43ee-a80c-c41aaaf24266)
 #number2
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/c9d98326-7709-49d9-9cf8-58f700f01abf)
+# dice
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/3017e04c-9207-4f03-8fd4-bb6b9d0785a0)
 
