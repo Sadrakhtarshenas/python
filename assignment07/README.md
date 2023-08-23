@@ -7,6 +7,7 @@ list
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/d010f2b0-f6c4-4ff8-a996-56658c55c3ec)
 #palindorme
 ![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/1dfc646b-8835-4c51-be36-5bfcd9d367a6)
-
+#metode count
+![image](https://github.com/Sadrakhtarshenas/python/assets/140339193/e82bc91c-8770-45ff-9480-b0e8559f4060)
 
 
